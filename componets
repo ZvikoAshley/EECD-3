@@ -1,0 +1,6 @@
+1. wirless adapter: NRF24L01
+2. servo for control flow of the water: SG-90 
+3. servo balance:  SG-5010 or MG-995 
+4. microcontroller: maybe Arduino Pro Mini ATmega328P or from our ms lab
+5. bldc for making water to flow: https://botland.com.pl/silniki-bldc-bezszczotkowe/5188-silnik-bezszczotkowy-z-przekladnia-25dx43l-45-1-ze-sterownikiem-pwm-enkoder-5904422306052.html?cd=18298825651&ad=&kd=&gclid=CjwKCAjw-rOaBhA9EiwAUkLV4geQaOKKD-l3gYV5RXAct9NCja5nMiYdrZ1AbeNjEGxQzgFgSdMZxhoCbZYQAvD_BwE
+6. accelerometer (checking the speed and swing): ADXL345
