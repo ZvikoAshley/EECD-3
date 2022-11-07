@@ -5,4 +5,4 @@
 5. bldc for making water to flow:(Controlled by PWM) https://botland.com.pl/silniki-bldc-bezszczotkowe/5188-silnik-bezszczotkowy-z-przekladnia-25dx43l-45-1-ze-sterownikiem-pwm-enkoder-5904422306052.html?cd=18298825651&ad=&kd=&gclid=CjwKCAjw-rOaBhA9EiwAUkLV4geQaOKKD-l3gYV5RXAct9NCja5nMiYdrZ1AbeNjEGxQzgFgSdMZxhoCbZYQAvD_BwE
 6. accelerometer (We should make a schematic): ADXL345
 7 Connectors(for RC transmission) 
-8. Power supply: (18V ->BLDC 6V->Servo->STM32) 
+8. Power supply: (18V ->BLDC 6V->Servo 3.3V->STM32) 
